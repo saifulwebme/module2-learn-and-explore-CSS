@@ -1,0 +1,49 @@
+h3 {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog {
+    margin: 20px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px violet;
+    padding: 10px;
+}
+
+/* .second {
+    display: none;
+    visibility: hidden;
+} */
+
+.eveniet {
+    border: 2px solid rebeccapurple;
+    /* display: block; */
+    /* height: 200px; */
+    margin: 20px;
+    /* padding: 20px; */
+    display: inline-block;
+}
+li{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    
+}
+header{
+    height: 300px;
+    background-image: url("4.jpg");
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: 500px; */
+    background-image: url("../image/3.jpg");
+}
+.cosn{
+    border: 2px solid red;
+    height: 60px;
+    display: inline-block;
+}

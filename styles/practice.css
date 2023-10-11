@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+}
+
+#nces {
+    color: aquamarine;
+    font-weight: 600;
+    font-size: large;
+}
+
+.sapi {
+    border: 2px solid red;
+    display: block;
+}
+
+.blog2 {
+    background-color: aquamarine;
+    color: red;
+    border: 10px solid sandybrown;
+    margin: 20px;
+    padding: 10px;
+    background-image: url("4.jpg");
+    box-shadow: 10px 10px 20px blue;
+    border-radius: 10px;
+
+}
+
+#hed {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+/* .second{
+        display: none;
+    visibility: hidden;
+} */
+li{
+    display: inline;
+    padding: 20px;
+}
+ol{
+    margin-top: 20px;
+    text-align: center;
+    color: aquamarine;
+}
